@@ -31,7 +31,7 @@ const Header: FC<HeaderProps> = ({ header }) => {
         <Flex align="center" justify="space-between" gap="3">
           {/* avatar */}
           <Avatar
-            name="Trip No."
+            name="Trip "
             src="logo192.png"
             size="md"
           />
