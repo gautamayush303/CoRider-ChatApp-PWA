@@ -32,7 +32,7 @@ const Header: FC<HeaderProps> = ({ header }) => {
           {/* avatar */}
           <Avatar
             name="Trip No."
-            src="https://img.traveltriangle.com/blog/wp-content/uploads/2017/05/horsley-hills-in-Andhra-SS220520171.jpg"
+            src="logo192.png"
             size="md"
           />
           {/* destination */}
